@@ -1,16 +1,15 @@
 # OldCord
 
-A theme for Discord that brings the **2020** (NOT pre-2025 refresh) UI back without removing features
+A theme for Discord that brings the pre-2025 refresh Titlebar back.
 
-###### Completely removes profile effects, profile colors, avatar decos and banners (revertable, see Addons)
+## Dark Theme
 
-![Preview](https://raw.githubusercontent.com/sebastian2007bro/OldDiscordTitlebar/master/.github/Discord_Design.png)
+![Preview](https://raw.githubusercontent.com/sebastian2007bro/OldDiscordTitlebar/master/.github/Discord_Design_Dark.png)
 
-<details><summary><strong>Light Theme?</strong></summary>
+## Light Theme
 
-It's does work. (Tested on Desktop and Web versions.)
+![Preview](https://raw.githubusercontent.com/sebastian2007bro/OldDiscordTitlebar/master/.github/Discord_Design_Light.png)
 
-</details>
 
 ## Installation
 
@@ -41,13 +40,13 @@ Paste the following in `Settings > Themes`:
 
 -->
 
-## Other
-
 1. Paste the following at **the top** of the CSS file/window:
 
 ```css
-@import url("https://milbits.github.io/oldcord/src/main.css");
+@import url("https://raw.githubusercontent.com/sebastian2007bro/OldDiscordTitlebar/refs/heads/main/src/components/redesign.css");
 ```
 ----
 
-###### not affiliated with https://oldcord.com/ or DTM-16
+## Forked from
+
+This project is forked from [OldCord](https://github.com/milbits/oldcord)
