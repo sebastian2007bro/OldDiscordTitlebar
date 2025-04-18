@@ -4,7 +4,7 @@ A theme for Discord that brings the **2020** (NOT pre-2025 refresh) UI back with
 
 ###### Completely removes profile effects, profile colors, avatar decos and banners (revertable, see Addons)
 
-![Preview](https://raw.githubusercontent.com/milbits/oldcord/master/.github/Discord_Design.png)
+![Preview](https://raw.githubusercontent.com/sebastian2007bro/OldDiscordTitlebar/master/.github/Discord_Design.png)
 
 </details>
 
