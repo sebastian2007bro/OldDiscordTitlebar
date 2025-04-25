@@ -1,5 +1,3 @@
-@import url("https://raw.githubusercontent.com/sebastian2007bro/OldDiscordTitlebar/refs/heads/main/src/components/other.css");
-
 .theme-dark:not(html.custom-theme-background, :has(#clientThemeVars)) {
 	--background-base-low: var(--background-primary);
 	--background-base-lower: var(--background-primary);
