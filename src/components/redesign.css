@@ -1,3 +1,5 @@
+@import url("https://raw.githubusercontent.com/sebastian2007bro/OldDiscordTitlebar/refs/heads/main/src/components/other.css");
+
 .theme-dark:not(html.custom-theme-background, :has(#clientThemeVars)) {
 	--background-base-low: var(--background-primary);
 	--background-base-lower: var(--background-primary);
@@ -61,7 +63,7 @@
 	background-color: #67060c;
 	color: #ffdcd7;
 }
-
+	/*I'll keep older server and channels.*/
 .visual-refresh {
 	/*servers and channels*/
 	.childWrapperNoHoverBg__6e9f8 {
