@@ -90,28 +90,6 @@ code {
     }
 }
 
-/*bot tag*/
-:not(.botTagOP__82f07, .botTagRemix__82f07) > .botText__82f07 {
-    visibility: hidden;
-    font-size: 0 !important;
-    &:before {
-        content: "BOT";
-        font-size: 10px;
-        line-height: 20px;
-        visibility: visible;
-    }
-}
-
-[class^="botTag"] {
-    border-radius: 3px !important;
-}
-
-.botTagRemix__82f07 {
-    border: 1px solid var(--blurple);
-    background: transparent;
-    color: var(--blurple);
-}
-
 /** revert reactions modal*/
 .theme-dark .reactionSelected_cc2dff {
     background-color: rgba(79, 84, 92, 0.3);
